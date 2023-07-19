@@ -1,8 +1,13 @@
+
+
+
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun 13 00:07:01 2022
 
-@author: tarea
+@author: Estefanyt
+Programa que permite calcular el salario mensual y el sueldo neto ,segun los impuestos del ISS,AFP,SAR,RENTA, teniendo en cuenta
+que el sueldo ingresado
 """
 planilla={
     "codigos":[],
